@@ -1,9 +1,16 @@
 # Sheet-Happens
 
-## Project Request: 
-During the training phase, the vendor received detailed counts of critical and coaching points of failure for each work item processed. However, upon transitioning to Business As Usual (BAU), the quality reviews were simplified to pass/fail ratings. The vendor has since requested that we reinstate the detailed point counts to enable more granular visibility into their performance improvements at a macro level.
+| Aspect                | Description                                                                                                                                                        |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Project Request**   | During the training phase, the vendor received detailed counts of critical and coaching points of failure for each work item processed. However, upon transitioning to Business As Usual (BAU), the quality reviews were simplified to pass/fail ratings. The vendor has since requested that we reinstate the detailed point counts to enable more granular visibility into their performance improvements at a macro level. Additionally, please update the Payroll dashboard to incorporate reporting on these detailed point counts accordingly.                                                          |
+| **Original Available Report**   | [Original Report](https://github.com/ADeabenderfer/Sheet-Happens/blob/main/Original%20Payroll%20BAU%20Huddle%20Dashboard.pdf) |
+| **Reporting Gap identified and dashboards provided**   | [Updated Payroll Dashboard Report]() <br> [Updated Payroll Dashboard Report]() <br> [Updated Payroll Dashboard Report]() <br> [Updated Payroll Dashboard Report]() <br> [Updated Payroll Dashboard Report]() <br> [Updated Payroll Dashboard Report]() <br> [Updated Payroll Dashboard Report]() <br> [Updated Payroll Dashboard Report]() <br> [Updated Payroll Dashboard Report]() |
+| **Future updates pending**           |  |
 
-Additionally, please update the Payroll dashboard to incorporate reporting on these detailed point counts accordingly.
-
-## Original available report
-[Original Report](https://github.com/ADeabenderfer/Sheet-Happens/blob/main/Original%20Payroll%20BAU%20Huddle%20Dashboard.pdf)
+## Opportunites identified and applied within existing sheets
+| Sheet                | Description                                                                                                                                                        |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **CTQ**   | **Column Additions**<br>- Turn Around tracking columns: Updated Vendor Complete, Additional Correction, Internal Complete, TAT trackers (updates/open to close/SLA open items)<br>- Critical/Coaching counts & % columns<br> - R2 columns: Financial Impact, Critical/Coaching counts, Coaching/Critical variance flags (updated formulas for R2)<br>**Automation Additions/Edits**<br> - TAT date recordings<br>- Updated "from" emails to SmartSheets (corrected automation sender)<br>**Form updates**<br> - Removed Financial error amounts if no financial error selected<br> - Added critical/coaching count columns<br> - Removed "correction needed" radial button if "No error" selected<br>Created CTQ R1 Submission sheet/form/report with automations<br>Created CTQ R2 Submission Report for completed R1 items<br>Created CTQ Calibration reporting for R1 & R2 discrepancies |
+| **Escalations**   | **Column Additions**<br>- Turn Around tracking column: Open to resolved<br>**Automation Additions/Edits**<br>- TAT date recordings<br>- Updated "from" emails to SmartSheets<br> |
+| **Question Log**   | **Column Additions**<br>- Created Date, New to SME, Placed on hold (Vendor & Internal), Complete date (Vendor & Internal), Time on hold (Vendor & Internal), SME cycle time, Total cycle time<br>**Automation Additions/Edits**<br>- TAT date recordings<br>- Updated "from" emails to SmartSheets<br>**Form updates**<br>- Added clarification to item lines |
+| **SOP updates**   | **Column Additions**<br>- Placed on hold, Time on hold, Total cycle time<br>**Automation Additions/Edits**<br>- TAT date recordings<br>- Updated "from" emails to SmartSheets |
