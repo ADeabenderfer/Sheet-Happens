@@ -6,4 +6,4 @@ During the training phase, the vendor received detailed counts of critical and c
 Additionally, please update the Payroll dashboard to incorporate reporting on these detailed point counts accordingly.
 
 ## Original available report
-[Original Report]()
+[Original Report](https://github.com/ADeabenderfer/Sheet-Happens/blob/main/Original%20Payroll%20BAU%20Huddle%20Dashboard.pdf)
